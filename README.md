@@ -1,2 +1,0 @@
-# pygame-movement-collisions
-# Tiles
